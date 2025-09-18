@@ -1,0 +1,1 @@
+(()=>{var t=null,o={main:document.getElementById("main")};o.main.scrollHeight>document.body.clientHeight&&((t=document.createElement("div")).id="top",o.main.insertBefore(t,o.main.firstChild),o.main.innerHTML+='<a class="toTop" id="toTop" href="#top" title="toTop"><i class="toTop-icon iconfont icon-top"></i></a>',document.getElementById("toTop").style.display="block")})();

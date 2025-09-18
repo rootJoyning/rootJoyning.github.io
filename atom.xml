@@ -1,68 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Welcome My Area</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-09-17T13:51:34.125Z</updated>
+  <updated>2025-09-18T08:35:31.344Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>joyning</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2025/09/17/Typora%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
-    <id>http://example.com/2025/09/17/Typora%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</id>
-    <published>2025-09-17T13:51:33.918Z</published>
-    <updated>2025-09-17T13:51:34.125Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="%E5%BD%93%E4%B8%A4%E4%B8%AA%E4%BB%A3%E7%A0%81%E5%9D%97%E7%A6%BB%E5%BE%97%E5%A4%AA%E8%BF%91%E6%97%B6%EF%BC%8C%E6%8C%89%E5%9B%9E%E8%BD%A6%E5%8F%AF%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BD%BF%E5%85%B6%E8%B7%9D%E7%A6%BB%E5%A2%9E%E5%A4%A7%EF%BC%8C%E9%9C%80%E8%A6%81%E8%BF%9B%E5%85%A5%E2%80%9C%E6%BA%90%E4%BB%A3%E7%A0%81%E6%A8%A1%E5%BC%8F%E2%80%9D%E6%8C%89%E5%9B%9E%E8%BD%A6%E3%80%82">注</a>：在文件最前面输入”[“TOC”]”，自动生成可跳转的文件目录</p><p>[TOC]</p><h1 id="一-关于标题"><a href="#一-关于标题" class="headerlink" title="一.关于标题"></a>一.关于标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>笔记：关于快捷键【但我的电脑不知道为啥用不了】</p><p>1.Ctrl+数字1-6对应将选中文本调节至对应级别的标题。</p><p>2.Ctrl+0可以快速将选中的文本调成普通文本。</p><p>3.Ctrl+加号&#x2F;减号对标题级别进行调整。</p><p>4.“#”数量控制字体级别，注意”#”与标题间有一个空格。</p><h1 id="二-关于换行"><a href="#二-关于换行" class="headerlink" title="二.关于换行"></a>二.关于换行</h1><p>1.“Shift”+“Enter”可以进行比”Shift”更小的换行。</p><p>2.“分割线”：“—”按回车或者”***”按回车。</p><h1 id="三-文字显示"><a href="#三-文字显示" class="headerlink" title="三.文字显示"></a>三.文字显示</h1><h2 id="1-关于字体"><a href="#1-关于字体" class="headerlink" title="1.关于字体"></a>1.关于字体</h2><p>（1）粗体：用一对双星号包裹   e.g：<strong>这是粗体</strong></p><p>（2）剔除线：用一对双飘号包裹  e.g:<del>这是剔除线</del></p><p>（3）下划线：用一对u标签(html)包裹  e.g:<u>这是下划线</u></p><p>（4）斜体：用一对单星号包裹  e.g:<em>这是斜体</em></p><p>（5）高亮：用一对双等号包裹  e.g：&#x3D;&#x3D;这是高亮&#x3D;&#x3D;</p><p>快捷键：(按双数次取消效果)</p><p><strong>加粗</strong>：Ctrl+B<br><del>删除线</del>：Shift+Alt+5<br><u>下划线</u>：Ctrl+u<br><em>斜体</em>：Ctrl+i</p><p><a href="%E5%BD%93%E4%B8%A4%E4%B8%AA%E4%BB%A3%E7%A0%81%E5%9D%97%E7%A6%BB%E5%BE%97%E5%A4%AA%E8%BF%91%E6%97%B6%EF%BC%8C%E6%8C%89%E5%9B%9E%E8%BD%A6%E5%8F%AF%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BD%BF%E5%85%B6%E8%B7%9D%E7%A6%BB%E5%A2%9E%E5%A4%A7%EF%BC%8C%E9%9C%80%E8%A6%81%E8%BF%9B%E5%85%A5%E2%80%9C%E6%BA%90%E4%BB%A3%E7%A0%81%E6%A8%A1%E5%BC%8F%E2%80%9D%E6%8C%89%E5%9B%9E%E8%BD%A6%E3%80%82">注</a>：反斜杠+星：解决星号不显示的问题  *</p><h2 id="2-上下标"><a href="#2-上下标" class="headerlink" title="2.上下标"></a>2.上下标</h2><p>(1)一对”^”：表示上标。 x^2^</p><p>(2)一对”<del>“：表示下标。 H</del>2~O</p><h1 id="四-列表"><a href="#四-列表" class="headerlink" title="四.列表"></a>四.列表</h1><h2 id="1-无序列表"><a href="#1-无序列表" class="headerlink" title="1.无序列表"></a>1.无序列表</h2><p>（1）同级序号</p><ul><li>ctrl+Shift+”]”：进入序列，两次回车退出序列。</li></ul><p>（2）子集序列:Ctrl+”]”：列表右缩进。</p><ul><li>这是一级序列<ul><li>这是二级序列</li></ul></li><li>又变一级</li></ul><h2 id="2-有序列表"><a href="#2-有序列表" class="headerlink" title="2.有序列表"></a>2.有序列表</h2><p>（1）同级序号</p><ul><li><p>ctrl+Shift+”[“：进入序列，两次回车退出序列。</p><p>(2) 子集序列：子集序列:Ctrl+”]”：列表右缩进。</p></li></ul><h2 id="3-任务列表"><a href="#3-任务列表" class="headerlink" title="3.任务列表"></a>3.任务列表</h2><ul><li><input checked="" disabled="" type="checkbox"> :无序列表符+”[ ] “</li></ul><h1 id="五-区块显示"><a href="#五-区块显示" class="headerlink" title="五.区块显示"></a>五.区块显示</h1><blockquote><p>:”英文箭头加回车”。</p></blockquote><h1 id="六-代码显示"><a href="#六-代码显示" class="headerlink" title="六.代码显示"></a>六.代码显示</h1><p>1.行内代码</p><p><code>int a =2;</code>:用一对“&#96;”包裹。</p><p>2.代码块：Ctrl+Shift+K</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">int a = 2;</span><br><span class="line"></span><br><span class="line">int b =3;</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">#include &lt;iostream&gt;</span><br></pre></td></tr></table></figure><h1 id="七-链接"><a href="#七-链接" class="headerlink" title="七.链接"></a>七.链接</h1><p><a href="">哔哩哔哩</a>：Ctrl+K</p><p>[一.关于标题](# 一.关于标题)：关于文件内标题跳转，前面括号写显示内容，后面括号写入跳转标题(记得加上对应格式)；跳转的时候Ctrl+点击。</p><h1 id="八-脚注"><a href="#八-脚注" class="headerlink" title="八.脚注"></a>八.脚注</h1><p>文字<a href="%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E8%AF%B4%E6%98%8E">^1</a> ：“[”+”^”想要脚注的文字+”]”</p><p>上面的实现：“[”+”^”想要脚注的文字+”]”:解释说明。 </p><p>​注意：上下想要脚注的文字的文字需要一致才能有脚注；</p><p>​     冒号要用英文格式的；</p><p>​     “&lt;”br”&gt;”：可以实现回车。<br></p><h1 id="九-图片插入"><a href="#九-图片插入" class="headerlink" title="九.图片插入"></a>九.图片插入</h1><p>![不显示只给写文件的人提醒的一段文字](图片路径 “图片标题”)</p><p><img src="/"></p><p>还可以拖拽进行添加图片</p><h1 id="十-表格"><a href="#十-表格" class="headerlink" title="十.表格"></a>十.表格</h1><p>快捷键：Ctrl+T</p><table><thead><tr><th align="center">id</th><th align="center">name</th><th align="center">score</th></tr></thead><tbody><tr><td align="center">2<br>3</td><td align="center">张三</td><td align="center">99</td></tr><tr><td align="center">3</td><td align="center">李四</td><td align="center">100</td></tr></tbody></table><h1 id="十一-表情符号"><a href="#十一-表情符号" class="headerlink" title="十一.表情符号"></a>十一.表情符号</h1><p>:happy: 、:cry:</p><p> 两个冒号间加对应英文；（win+. ：可以快速打开表情面板）</p><h1 id="十二-数学公式输入"><a href="#十二-数学公式输入" class="headerlink" title="十二.数学公式输入"></a>十二.数学公式输入</h1><p>$$<br>x^2+(y+1)^2&#x3D;5<br>$$</p>]]></content>
+    <title>基本格式</title>
+    <link href="http://example.com/2025/09/18/format/"/>
+    <id>http://example.com/2025/09/18/format/</id>
+    <published>2025-09-18T08:28:11.787Z</published>
+    <updated>2025-09-18T08:35:31.344Z</updated>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;%E5%BD%93%E4%B8%A4%E4%B8%AA%E4%BB%A3%E7%A0%81%E5%9D%97%E7%A6%BB%E5%BE%97%E5%A4%AA%E8%BF%91%E6%97%B6%EF%BC%8C%E6%8C%89%E5%9B%9E%E</summary>
-      
     
     
+    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
     
     
   </entry>
   
   <entry>
-    <title>[object Object]</title>
-    <link href="http://example.com/2025/09/17/selflayout/"/>
-    <id>http://example.com/2025/09/17/selflayout/</id>
-    <published>2025-09-17T08:21:46.143Z</published>
-    <updated>2025-09-17T08:24:01.536Z</updated>
-    
-    <content type="html"><![CDATA[<p>Demo: self-defined post content</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Demo: self-defined post content&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2025/09/17/hello-world/"/>
-    <id>http://example.com/2025/09/17/hello-world/</id>
-    <published>2025-09-17T01:37:30.677Z</published>
-    <updated>1985-10-26T08:15:00.000Z</updated>
+    <title>Hello Hexo</title>
+    <link href="http://example.com/2025/09/18/hello-world/"/>
+    <id>http://example.com/2025/09/18/hello-world/</id>
+    <published>2025-09-18T08:02:00.000Z</published>
+    <updated>2025-09-18T08:05:44.605Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -74,6 +48,36 @@
     
     
     
+    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Typora的基础使用方法</title>
+    <link href="http://example.com/2025/09/18/Typora_use/"/>
+    <id>http://example.com/2025/09/18/Typora_use/</id>
+    <published>2025-09-18T07:39:00.000Z</published>
+    <updated>2025-09-18T08:02:19.078Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="%E5%BD%93%E4%B8%A4%E4%B8%AA%E4%BB%A3%E7%A0%81%E5%9D%97%E7%A6%BB%E5%BE%97%E5%A4%AA%E8%BF%91%E6%97%B6%EF%BC%8C%E6%8C%89%E5%9B%9E%E8%BD%A6%E5%8F%AF%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BD%BF%E5%85%B6%E8%B7%9D%E7%A6%BB%E5%A2%9E%E5%A4%A7%EF%BC%8C%E9%9C%80%E8%A6%81%E8%BF%9B%E5%85%A5%E2%80%9C%E6%BA%90%E4%BB%A3%E7%A0%81%E6%A8%A1%E5%BC%8F%E2%80%9D%E6%8C%89%E5%9B%9E%E8%BD%A6%E3%80%82">注</a>：在文件最前面输入”[“TOC”]”，自动生成可跳转的文件目录</p><p>[TOC]</p><h1 id="一-关于标题"><a href="#一-关于标题" class="headerlink" title="一.关于标题"></a>一.关于标题</h1><h2 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="这是二级标题"></a>这是二级标题</h2><p>笔记：关于快捷键【但我的电脑不知道为啥用不了】</p><p>1.Ctrl+数字1-6对应将选中文本调节至对应级别的标题。</p><p>2.Ctrl+0可以快速将选中的文本调成普通文本。</p><p>3.Ctrl+加号&#x2F;减号对标题级别进行调整。</p><p>4.“#”数量控制字体级别，注意”#”与标题间有一个空格。</p><h1 id="二-关于换行"><a href="#二-关于换行" class="headerlink" title="二.关于换行"></a>二.关于换行</h1><p>1.“Shift”+“Enter”可以进行比”Shift”更小的换行。</p><p>2.“分割线”：“—”按回车或者”***”按回车。</p><h1 id="三-文字显示"><a href="#三-文字显示" class="headerlink" title="三.文字显示"></a>三.文字显示</h1><h2 id="1-关于字体"><a href="#1-关于字体" class="headerlink" title="1.关于字体"></a>1.关于字体</h2><p>（1）粗体：用一对双星号包裹   e.g：<strong>这是粗体</strong></p><p>（2）剔除线：用一对双飘号包裹  e.g:<del>这是剔除线</del></p><p>（3）下划线：用一对u标签(html)包裹  e.g:<u>这是下划线</u></p><p>（4）斜体：用一对单星号包裹  e.g:<em>这是斜体</em></p><p>（5）高亮：用一对双等号包裹  e.g：&#x3D;&#x3D;这是高亮&#x3D;&#x3D;</p><p>快捷键：(按双数次取消效果)</p><p><strong>加粗</strong>：Ctrl+B<br><del>删除线</del>：Shift+Alt+5<br><u>下划线</u>：Ctrl+u<br><em>斜体</em>：Ctrl+i</p><p><a href="%E5%BD%93%E4%B8%A4%E4%B8%AA%E4%BB%A3%E7%A0%81%E5%9D%97%E7%A6%BB%E5%BE%97%E5%A4%AA%E8%BF%91%E6%97%B6%EF%BC%8C%E6%8C%89%E5%9B%9E%E8%BD%A6%E5%8F%AF%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BD%BF%E5%85%B6%E8%B7%9D%E7%A6%BB%E5%A2%9E%E5%A4%A7%EF%BC%8C%E9%9C%80%E8%A6%81%E8%BF%9B%E5%85%A5%E2%80%9C%E6%BA%90%E4%BB%A3%E7%A0%81%E6%A8%A1%E5%BC%8F%E2%80%9D%E6%8C%89%E5%9B%9E%E8%BD%A6%E3%80%82">注</a>：反斜杠+星：解决星号不显示的问题  *</p><h2 id="2-上下标"><a href="#2-上下标" class="headerlink" title="2.上下标"></a>2.上下标</h2><p>(1)一对”^”：表示上标。 x^2^</p><p>(2)一对”<del>“：表示下标。 H</del>2~O</p><h1 id="四-列表"><a href="#四-列表" class="headerlink" title="四.列表"></a>四.列表</h1><h2 id="1-无序列表"><a href="#1-无序列表" class="headerlink" title="1.无序列表"></a>1.无序列表</h2><p>（1）同级序号</p><ul><li>ctrl+Shift+”]”：进入序列，两次回车退出序列。</li></ul><p>（2）子集序列:Ctrl+”]”：列表右缩进。</p><ul><li>这是一级序列<ul><li>这是二级序列</li></ul></li><li>又变一级</li></ul><h2 id="2-有序列表"><a href="#2-有序列表" class="headerlink" title="2.有序列表"></a>2.有序列表</h2><p>（1）同级序号</p><ul><li><p>ctrl+Shift+”[“：进入序列，两次回车退出序列。</p><p>(2) 子集序列：子集序列:Ctrl+”]”：列表右缩进。</p></li></ul><h2 id="3-任务列表"><a href="#3-任务列表" class="headerlink" title="3.任务列表"></a>3.任务列表</h2><ul><li><input checked="" disabled="" type="checkbox"> :无序列表符+”[ ] “</li></ul><h1 id="五-区块显示"><a href="#五-区块显示" class="headerlink" title="五.区块显示"></a>五.区块显示</h1><blockquote><p>:”英文箭头加回车”。</p></blockquote><h1 id="六-代码显示"><a href="#六-代码显示" class="headerlink" title="六.代码显示"></a>六.代码显示</h1><p>1.行内代码</p><p><code>int a =2;</code>:用一对“&#96;”包裹。</p><p>2.代码块：Ctrl+Shift+K</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">int a = 2;</span><br><span class="line"></span><br><span class="line">int b =3;</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">#include &lt;iostream&gt;</span><br></pre></td></tr></table></figure><h1 id="七-链接"><a href="#七-链接" class="headerlink" title="七.链接"></a>七.链接</h1><p><a href="">哔哩哔哩</a>：Ctrl+K</p><p>[一.关于标题](# 一.关于标题)：关于文件内标题跳转，前面括号写显示内容，后面括号写入跳转标题(记得加上对应格式)；跳转的时候Ctrl+点击。</p><h1 id="八-脚注"><a href="#八-脚注" class="headerlink" title="八.脚注"></a>八.脚注</h1><p>文字<a href="%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E8%AF%B4%E6%98%8E">^1</a> ：“[”+”^”想要脚注的文字+”]”</p><p>上面的实现：“[”+”^”想要脚注的文字+”]”:解释说明。 </p><p>​注意：上下想要脚注的文字的文字需要一致才能有脚注；</p><p>​     冒号要用英文格式的；</p><p>​     “&lt;”br”&gt;”：可以实现回车。<br></p><h1 id="九-图片插入"><a href="#九-图片插入" class="headerlink" title="九.图片插入"></a>九.图片插入</h1><p>![不显示只给写文件的人提醒的一段文字](图片路径 “图片标题”)</p><p><img src="/"></p><p>还可以拖拽进行添加图片</p><h1 id="十-表格"><a href="#十-表格" class="headerlink" title="十.表格"></a>十.表格</h1><p>快捷键：Ctrl+T</p><table><thead><tr><th align="center">id</th><th align="center">name</th><th align="center">score</th></tr></thead><tbody><tr><td align="center">2<br>3</td><td align="center">张三</td><td align="center">99</td></tr><tr><td align="center">3</td><td align="center">李四</td><td align="center">100</td></tr></tbody></table><h1 id="十一-表情符号"><a href="#十一-表情符号" class="headerlink" title="十一.表情符号"></a>十一.表情符号</h1><p>:happy: 、:cry:</p><p> 两个冒号间加对应英文；（win+. ：可以快速打开表情面板）</p><h1 id="十二-数学公式输入"><a href="#十二-数学公式输入" class="headerlink" title="十二.数学公式输入"></a>十二.数学公式输入</h1><p>$$<br>x^2+(y+1)^2&#x3D;5<br>$$</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;%E5%BD%93%E4%B8%A4%E4%B8%AA%E4%BB%A3%E7%A0%81%E5%9D%97%E7%A6%BB%E5%BE%97%E5%A4%AA%E8%BF%91%E6%97%B6%EF%BC%8C%E6%8C%89%E5%9B%9E%E</summary>
+      
+    
+    
+    
+    <category term="Typora" scheme="http://example.com/categories/Typora/"/>
+    
+    
+    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
+    
+    <category term="basic-Usage" scheme="http://example.com/tags/basic-Usage/"/>
     
   </entry>
   
